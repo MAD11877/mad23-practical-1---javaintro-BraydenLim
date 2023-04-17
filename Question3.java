@@ -6,7 +6,7 @@ public class Question3
   {
     Scanner in = new Scanner(System.in);
     int num = in.nextInt();
-    int ans = int * int;
+    int ans = num * num;
     System.Out.print(ans);
   }
 }
