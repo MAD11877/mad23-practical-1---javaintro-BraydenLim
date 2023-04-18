@@ -18,6 +18,7 @@ public class Question4
      */
      
     Scanner in = new Scanner(System.in);
+    count = 
     
   }
 }
